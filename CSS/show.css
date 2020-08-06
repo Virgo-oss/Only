@@ -1,0 +1,23 @@
+/*主内容-显示界面*/
+.show{
+  left: 50%;
+  width: 93%;
+  padding: 15px;
+  height: 5000px;
+  margin: 85 0 20 0;
+  position: relative;
+  transform: translate(-50%);
+  color: rgb(228, 205, 205);
+  background: rgb(105,105,105,0.5);
+ }
+/*内容编辑*/
+#Rotation{
+  width: 500px;
+  height: 320px;
+  border: 4px ridge rgb(255, 209, 209);
+  background: rgb(167, 167, 167);
+ }
+ #Rotation img{
+   width: 500px;
+   height: 320px;
+ }

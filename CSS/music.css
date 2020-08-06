@@ -1,0 +1,43 @@
+/*网站音乐*/
+.music{
+  border: none;
+  bottom: 65px;
+  position: fixed;
+  }
+#sidebar{
+  display: none;
+  }
+#arrow{
+  transition: 0.2s ease-out;
+  }
+#sidebar:checked + #Qplayer{
+  left: 0;
+  }
+#sidebar:checked ~ #arrow{
+  padding-left: 235px;
+  }
+#Qplayer{
+  left: -235px;
+  height: 60px;
+  width: 235px;
+  position: absolute;
+  transition: 0.2s ease-out;
+  background: rgba(255, 255, 255, 0.8);
+  }
+#Qplayer audio{
+  width: 235px;
+  height: 60px;
+  line-height: 60px;
+}
+#arrow label{
+  width: 25px;
+  height: 60px;
+  display: block;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  background: rgb(73, 141, 204);
+  }
+#arrow img{
+  margin-top: 20px;
+  }
