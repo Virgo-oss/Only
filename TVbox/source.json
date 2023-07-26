@@ -30,8 +30,8 @@
       "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"
     },
     {
-      "key": "WebDAV",
-      "name": "WebDAV",
+      "key": "4K影视",
+      "name": "4K影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
