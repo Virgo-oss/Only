@@ -10,7 +10,8 @@
 ||*\.top/api/topic/like?entityId=*&entityType=topic$xhr
 
 ! 2023-08-11 https://*.bing.com
-bing.com###bnp_rich_div
+! bing.com###bnp_rich_div
+bing.com###div[data-viewname="MobileChinaBanner"]
 
 ! 2023-08-12 https://juejin.cn
 juejin.cn##.app-open-button.open-button
