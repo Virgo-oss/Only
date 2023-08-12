@@ -4,3 +4,6 @@
 2、短链接制作网址：https://www.c1n.cn/
 
 3、自制的接口源网址：
+
+## Ublock规则管理：
+1、主流网页小工具：openapp.txt
