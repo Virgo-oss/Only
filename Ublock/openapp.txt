@@ -85,7 +85,7 @@ zhuanlan.zhihu.com##.OpenInAppButton
 baidu.com##.s-loading-frame
 baidu.com##.ec_ad_results
 ! baidu.com##div[new_srcid="34689"]
-baidu.com##.c-invoke-show-class__wuSZt
+baidu.com##div[class^="c-invoke-"]
 baidu.com##.c-line-ivkmask
 baidu.com###page-relative
 baidu.com###page-ft
