@@ -81,18 +81,18 @@ zhuanlan.zhihu.com##.OpenInAppButton
 ||hm.baidu.com^
 ||downapp.baidu.com^
 ||downpack.baidu.com^
-! m.baidu.com##div[id^="_169185"]
-m.baidu.com##.s-loading-frame
-m.baidu.com##.ec_ad_results
-! m.baidu.com##div[new_srcid="34689"]
-m.baidu.com##.c-invoke-show-class__wuSZt
-m.baidu.com##.c-line-ivkmask
-m.baidu.com###page-relative
-m.baidu.com###page-ft
-m.baidu.com##div[data-type="ad"]
-! m.baidu.com##div[data-type="rs"]
-m.baidu.com##div[data-speed="300"]
-m.baidu.com##.news_ad
+! baidu.com##div[id^="_169185"]
+baidu.com##.s-loading-frame
+baidu.com##.ec_ad_results
+! baidu.com##div[new_srcid="34689"]
+baidu.com##.c-invoke-show-class__wuSZt
+baidu.com##.c-line-ivkmask
+baidu.com###page-relative
+baidu.com###page-ft
+baidu.com##div[data-type="ad"]
+! baidu.com##div[data-type="rs"]
+baidu.com##div[data-speed="300"]
+baidu.com##.news_ad
 ||/indexlocal_49da17a.js$script,domain=baidu.com
 mbd.baidu.com##.undefined
 mbd.baidu.com##._3RkCqLmiQu
