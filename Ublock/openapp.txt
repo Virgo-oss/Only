@@ -1,2 +1,10 @@
-|bing.com###bnp\.nid\.63693
+
+bing.com###bnp\.nid\.63693
+
+blog.csdn.net##.active.openApp
+
+juejin.cn##.app-open-button.open-button
+juejin.cn##.byte-drawer--bottom.byte-drawer__content
+juejin.cn##.byte-drawer__mask
+
 ||hm.baidu.com^
