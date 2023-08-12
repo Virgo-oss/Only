@@ -1,10 +1,108 @@
+! 2023-02-08 https://www.johngo689.com
+||readmore.openwrite.cn/js/readmore.js$script,important
 
+! 2023-04-03 http://uu.ayj11.xyz
+||uu.ayj11.xyz/MDassets/js/system.js$script,domain=uu.ayj11.xyz
+
+! 2023-07-22 https://hj*.top
+###hj_login__window__
+###details-page > div.haslist.containeradvertising > div.listContainer > [src="images/common/setqrimg2.png"]
+||*\.top/api/topic/like?entityId=*&entityType=topic$xhr
+
+! 2023-08-11 https://*.bing.com
 bing.com###bnp\.nid\.63693
 
-blog.csdn.net##.active.openApp
-
+! 2023-08-12 https://juejin.cn
 juejin.cn##.app-open-button.open-button
 juejin.cn##.byte-drawer--bottom.byte-drawer__content
 juejin.cn##.byte-drawer__mask
 
+! 2023-08-12 https://fanyi.baidu.com
+fanyi.baidu.com##.app-bar
+fanyi-app.baidu.com##.top-bn-dark.top-bn
+
+! 2023-08-12 https://*.csdn.net
+csdn.net##.openApp
+csdn.net##.icon-line
+csdn.net##.blind_box
+csdn.net##.readall_box
+download.csdn.net##.ml-12
+csdn.net##.m_toolbar_left_app_btn
+csdn.net##.btn_open_app_prompt_div
+csdn.net##.passport-login-container
+||/pc/js/detail-d423030cf2.min.js$script,domain=csdn.net,important
+||/mobile/js/detail-00b4458b2e.min.js$script,domain=csdn.net,important
+
+! 2023-08-12 https://m.qidian.com
+m.qidian.com##._homeDownload_1vaag_773
+
+m.qidian.com##.footerBackTop_vg9Jz
+m.qidian.com##.footerDownload_IewbR
+
+m.qidian.com###searchPopularWords > .auto-tr
+
+m.qidian.com##.auto-once.downloadContent_uPglj
+m.qidian.com##._bdCenterOperateCon_y29vt_726
+m.qidian.com##._bdReadApp_1t6po_568
+m.qidian.com##._footerBackTop_1eu4r_197
+
+m.qidian.com##._catalogBottomDDL_17heq_1119
+m.qidian.com##._footerDownload_1i00o_275
+
+m.qidian.com##.bg-on-image-white-70
+m.qidian.com##.undefined._readClock_17rbi_193
+m.qidian.com##._status2_17rbi_273._readClock_17rbi_193
+m.qidian.com##.pt-12px.p-16px.flex
+m.qidian.com##.justify-center.items-center.flex.z-5.inset-0.fixed
+m.qidian.com##._dlBookWrapper_16jnf_193
+
+! 2023-08-12 https://m.qdmm.com
+m.qdmm.com##body > .jsDownloadLink.prevent-shield.auto-report.download-content
+m.qdmm.com##.prevent-shield.bd-center-download
+m.qdmm.com##.footer-backtop
+m.qdmm.com##.jsDownloadLink.catalog-download
+m.qdmm.com##.jsDownloadLink.footer-app
+
+! 2023-08-12 https://www.jianshu.com
+jianshu.com##.index_call-app-btn
+jianshu.com##.progress
+jianshu.com##.download-app-guidance
+jianshu.com##.header-download
+jianshu.com##.app-open
+jianshu.com##.comment-open-app-btn-wrap
+jianshu.com##.panel
+jianshu.com##.download
+jianshu.com##.call-app-Ad-bottom
+
+! 2023-08-12 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.OpenInAppButton
+
+! 2023-08-12 https://*.baidu.com
 ||hm.baidu.com^
+||downapp.baidu.com^
+||downpack.baidu.com^
+! m.baidu.com##div[id^="_169185"]
+m.baidu.com##.s-loading-frame
+! m.baidu.com##div[new_srcid="34689"]
+m.baidu.com##.c-invoke-show-class__wuSZt
+m.baidu.com##.c-line-ivkmask
+m.baidu.com###page-relative
+m.baidu.com##.page-ft
+m.baidu.com##div[data-type="ad"]
+! m.baidu.com##div[data-type="rs"]
+m.baidu.com##div[data-speed="300"]
+m.baidu.com##.news_ad
+||/indexlocal_49da17a.js$script,domain=baidu.com
+mbd.baidu.com##.undefined
+mbd.baidu.com##._3RkCqLmiQu
+
+! 2023-08-12 https://tieba.baidu.com
+||tieba.baidu.com/mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
+tieba.baidu.com##.fengchao-banner-defensive
+tieba.baidu.com##div > .nav-bar-v2 > .nav-bar-bottom
+tieba.baidu.com##.more-btn-desc
+tieba.baidu.com##.only-lz
+tieba.baidu.com##.recommend-title-open-app
+tieba.baidu.com##.forum-btn-box
+tieba.baidu.com##.more-image-desc
+
