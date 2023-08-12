@@ -88,7 +88,7 @@ m.baidu.com##.ec_ad_results
 m.baidu.com##.c-invoke-show-class__wuSZt
 m.baidu.com##.c-line-ivkmask
 m.baidu.com###page-relative
-m.baidu.com##.page-ft
+m.baidu.com###page-ft
 m.baidu.com##div[data-type="ad"]
 ! m.baidu.com##div[data-type="rs"]
 m.baidu.com##div[data-speed="300"]
