@@ -1,9 +1,8 @@
 ## TVbox接口源管理：
-1、TVBox资源接口外链托管网址：https://gitee.com/
+1、自制的接口源网址：https://gitee.com/onlydrive/Only/raw/master/TVbox/source.json
 
 2、短链接制作网址：https://www.c1n.cn/
 
-3、自制的接口源网址：
 
 ## Ublock自写规则管理：
 1、[WbeTools](https://gitee.com/onlydrive/Olny/raw/master/Ublock/WebTools.txt)：屏蔽主流网站内影响用户体验的内容。（正在更新）
