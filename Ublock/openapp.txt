@@ -100,8 +100,8 @@ mbd.baidu.com##.undefined
 mbd.baidu.com##._3RkCqLmiQu
 
 ! 2023-08-12 https://tieba.baidu.com
-/mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
-/mo/q/gameresourcepb/getResourceList?thread_id=6178680981&phoneType=2&eqid=&fr=wise$xhr,domain=tieba.baidu.com
+! /mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
+! /mo/q/gameresourcepb/getResourceList?thread_id=6178680981&phoneType=2&eqid=&fr=wise$xhr,domain=tieba.baidu.com
 tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##div > .nav-bar-v2 > .nav-bar-bottom
 tieba.baidu.com##.more-btn-desc
