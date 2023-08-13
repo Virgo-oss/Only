@@ -4,7 +4,7 @@
 2、短链接制作网址：https://www.c1n.cn/
 
 
-## Ublock自写规则管理：
+## Ublock规则管理：
 1、[WbeTools](https://gitee.com/onlydrive/Olny/raw/master/Ublock/WebTools.txt)：屏蔽主流网站内影响用户体验的内容。（正在更新）
 
 2、[EasyPrivacy（防跟踪）](https://easylist-downloads.adblockplus.org/easyprivacy.txt)：从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据。
