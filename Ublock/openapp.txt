@@ -83,7 +83,7 @@ zhuanlan.zhihu.com##.OpenInAppButton
 ||downpack.baidu.com^
 ! baidu.com##div[id^="_169185"]
 baidu.com##.s-loading-frame
-baidu.com##.ec_ad_results
+! baidu.com##.ec_ad_results
 ! baidu.com##div[new_srcid="34689"]
 baidu.com##div[class^="c-line-clamp1 c-invoke"]
 baidu.com##.c-line-ivkmask
