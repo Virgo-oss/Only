@@ -14,6 +14,6 @@
 
 4、[EasyList – Cookie Notices](https://ublockorigin.github.io/uAssets/thirdparties/easylist-cookies.txt)：阻止网站的Cookie标语，GDPR覆盖窗口和其他与隐私相关的通知。
 
-5、[EasyList](https://easylist-downloads.adblockplus.org/easylist.txt)：反广告主规则列表。主要面向英文网站，包含大量通用规则。
+5、[EasyList](https://easylist-downloads.adblockplus.org/easylist.txt)：反广告主规则列表，主要面向英文网站，包含大量通用规则。
 
-6、[Easylist China](https://easylist-downloads.adblockplus.org/easylistchina.txt)：反广告主规则列表的补充。主要面向中文网站。
+6、[Easylist China](https://easylist-downloads.adblockplus.org/easylistchina.txt)：反广告主规则列表的补充，主要面向中文网站。
