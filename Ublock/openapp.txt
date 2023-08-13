@@ -1,3 +1,5 @@
+[Adblock Plus 2.0]
+! Title: WebTools
 ! 2023-02-08 https://www.johngo689.com
 ||readmore.openwrite.cn/js/readmore.js$script,important
 
@@ -74,8 +76,8 @@ jianshu.com##.panel
 jianshu.com##.download
 jianshu.com##.call-app-Ad-bottom
 
-! 2023-08-12 https://zhuanlan.zhihu.com
-zhuanlan.zhihu.com##.OpenInAppButton
+! 2023-08-12 https://*.zhihu.com
+zhihu.com##.OpenInAppButton
 
 ! 2023-08-12 https://*.baidu.com
 ||hm.baidu.com^
