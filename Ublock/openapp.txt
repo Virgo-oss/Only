@@ -103,10 +103,8 @@ mbd.baidu.com##._3RkCqLmiQu
 tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##div > .nav-bar-v2 > .nav-bar-bottom
 tieba.baidu.com##.more-btn-desc
-! tieba.baidu.com##.recommend-title-open-app
-
 tieba.baidu.com##.only-lz
-tieba.baidu.com##[class$="open-app"]
+tieba.baidu.com##div[class$="open-app"]
 tieba.baidu.com##.forum-btn-box
 tieba.baidu.com##.more-image-desc
 
