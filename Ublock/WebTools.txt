@@ -78,7 +78,7 @@ jianshu.com##.download
 jianshu.com##.call-app-Ad-bottom
 
 ! 2023-08-12 https://*.zhihu.com
-zhihu.com##.OpenInAppButton
+zhihu.com##.OpenInAppButton:remove()
 
 ! 2023-08-12 https://*.baidu.com
 ||hm.baidu.com^
