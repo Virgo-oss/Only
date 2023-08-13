@@ -3,8 +3,8 @@
 ! 2023-02-08 https://www.johngo689.com
 ||readmore.openwrite.cn/js/readmore.js$script,important
 
-! 2023-04-03 http://uu.ayj11.xyz
-||uu.ayj11.xyz/MDassets/js/system.js$script,domain=uu.ayj11.xyz
+! 2023-04-03 http://uu.ayj*.xyz
+/MDassets/js/system.js
 
 ! 2023-07-22 https://hj*.top
 ###hj_login__window__
@@ -32,8 +32,8 @@ download.csdn.net##.ml-12
 csdn.net##.m_toolbar_left_app_btn
 csdn.net##.btn_open_app_prompt_div
 csdn.net##.passport-login-container
-||/pc/js/detail-d423030cf2.min.js$script,domain=csdn.net,important
-||/mobile/js/detail-00b4458b2e.min.js$script,domain=csdn.net,important
+/pc/js/detail-d423030cf2.min.js$script,domain=csdn.net
+/mobile/js/detail-00b4458b2e.min.js$script,domain=csdn.net
 
 ! 2023-08-12 https://m.qidian.com
 m.qidian.com##._homeDownload_1vaag_773
@@ -95,13 +95,13 @@ baidu.com##div[data-type="ad"]
 ! baidu.com##div[data-type="rs"]
 baidu.com##div[data-speed="300"]
 baidu.com##.news_ad
-||/indexlocal_49da17a.js$script,domain=baidu.com
+/indexlocal_49da17a.js$script,domain=baidu.com
 mbd.baidu.com##.undefined
 mbd.baidu.com##._3RkCqLmiQu
 
 ! 2023-08-12 https://tieba.baidu.com
-||tieba.baidu.com/mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
-||tieba.baidu.com/mo/q/gameresourcepb/getResourceList?thread_id=6178680981&phoneType=2&eqid=&fr=wise$xhr,domain=tieba.baidu.com
+/mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
+/mo/q/gameresourcepb/getResourceList?thread_id=6178680981&phoneType=2&eqid=&fr=wise$xhr,domain=tieba.baidu.com
 tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##div > .nav-bar-v2 > .nav-bar-bottom
 tieba.baidu.com##.more-btn-desc
