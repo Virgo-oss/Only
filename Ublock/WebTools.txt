@@ -111,3 +111,12 @@ tieba.baidu.com##[class$="open-app"]
 tieba.baidu.com##.forum-btn-box
 tieba.baidu.com##.more-image-desc
 
+! 2023-08-14 https://*.bilibili.com
+bilibili.com##.open-btn
+bilibili.com##.float-btn
+bilibili.com##.btn-download
+bilibili.com##.launch-app-btn
+bilibili.com##.read-more
+bilibili.com##bili-open-app.open-app-btn-wrap
+bilibili.com##.limit:remove-class(limit)
+bilibili.com##.show-later:remove-class(show-later)
