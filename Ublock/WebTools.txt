@@ -118,6 +118,7 @@ bilibili.com##.float-btn
 bilibili.com##.btn-download
 bilibili.com##.launch-app-btn
 bilibili.com##.read-more
+bilibili.com##.m-video-related
 bilibili.com##bili-open-app.open-app-btn-wrap
 bilibili.com##.limit:remove-class(limit)
 bilibili.com##.show-later:remove-class(show-later)
