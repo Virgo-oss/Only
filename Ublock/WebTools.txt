@@ -116,12 +116,13 @@ tieba.baidu.com##.more-image-desc
 bilibili.com##.open-btn
 bilibili.com##.float-btn
 bilibili.com##.btn-download
-bilibili.com##.launch-app-btn
 bilibili.com##.read-more
 bilibili.com##.open-app.weakened
 bilibili.com##.m-video-related
+bilibili.com##.m-nav-openapp
 bilibili.com##bili-open-app.open-app-btn-wrap
 bilibili.com##.limit:remove-class(limit)
+bilibili.com##.m-video-main-launchapp.visible-open-app-btn
 bilibili.com##.show-later:remove-class(show-later)
 ||cnhkdb.oss-cn-hongkong.aliyuncs.com/metron/js/nlm.min.js
 bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?id=12869219"]:remove-attr(onclick)
