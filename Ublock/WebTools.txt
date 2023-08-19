@@ -121,3 +121,5 @@ bilibili.com##.read-more
 bilibili.com##bili-open-app.open-app-btn-wrap
 bilibili.com##.limit:remove-class(limit)
 bilibili.com##.show-later:remove-class(show-later)
+||cnhkdb.oss-cn-hongkong.aliyuncs.com/metron/js/nlm.min.js
+bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?id=12869219"]:remove-attr(onclick)
