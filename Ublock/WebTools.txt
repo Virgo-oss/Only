@@ -131,3 +131,6 @@ bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?
 douban.com##.oia-readall
 douban.com##.download-app
 douban.com##.oia
+douban.com##.interval
+douban.com###photoswipe-root
+douban.com##.download-app
