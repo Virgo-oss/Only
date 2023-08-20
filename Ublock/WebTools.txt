@@ -129,7 +129,7 @@ bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?
 
 ! 2023-08-20 https://*.douban.com
 douban.com##.oia-readall
-douban.com##.download-app
+douban.com##.TalionNav-static
 douban.com##.oia
 douban.com##.group-info
 douban.com##.interval
