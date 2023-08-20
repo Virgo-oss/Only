@@ -126,3 +126,8 @@ bilibili.com##.m-video-main-launchapp.visible-open-app-btn
 bilibili.com##.show-later:remove-class(show-later)
 ||cnhkdb.oss-cn-hongkong.aliyuncs.com/metron/js/nlm.min.js
 bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?id=12869219"]:remove-attr(onclick)
+
+! 2023-08-20 https://*.douban.com
+douban.com##.oia-readall
+douban.com##.download-app
+douban.com##.oia
