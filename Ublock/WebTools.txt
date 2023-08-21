@@ -69,8 +69,7 @@ m.qdmm.com##.jsDownloadLink.footer-app
 
 ! 2023-08-12 https://www.jianshu.com
 jianshu.com##.index_call-app-btn
-jianshu.com##.progress
-jianshu.com##div.download-app-guidance
+jianshu.com##.download-app-guidance
 jianshu.com##.header-download
 jianshu.com##.app-open
 jianshu.com##.comment-open-app-btn-wrap
