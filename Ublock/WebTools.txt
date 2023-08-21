@@ -131,15 +131,12 @@ bilibili.com##..open-app
 
 ! 2023-08-20 https://*.douban.com
 douban.com##.oia-readall
-douban.com##.TalionNav-static
 douban.com##.oia
 douban.com##.group-info
 douban.com##.interval
 douban.com###photoswipe-root
 douban.com##.download-app
-douban.com##.card:nth-of-type(3)
-douban.com##.card:nth-of-type(7)
-douban.com##.card:nth-of-type(9)
+
 
 ! 2023-08-21 https://m.manmanbuy.com
 m.manmanbuy.com###Div1
