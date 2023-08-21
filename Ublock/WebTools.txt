@@ -126,6 +126,7 @@ bilibili.com##.m-video-main-launchapp.visible-open-app-btn
 bilibili.com##.show-later:remove-class(show-later)
 ||cnhkdb.oss-cn-hongkong.aliyuncs.com/metron/js/nlm.min.js
 bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?id=12869219"]:remove-attr(onclick)
+bilibili.com##..open-app
 
 ! 2023-08-20 https://*.douban.com
 douban.com##.oia-readall
@@ -135,3 +136,15 @@ douban.com##.group-info
 douban.com##.interval
 douban.com###photoswipe-root
 douban.com##.download-app
+
+! 2023-08-21 https://m.manmanbuy.com
+m.manmanbuy.com###Div1
+m.manmanbuy.com##.app-activity-download
+m.manmanbuy.com##.insert-app-download
+m.manmanbuy.com##.app-promotion-bar
+m.manmanbuy.com##.cu-comment-more
+m.manmanbuy.com##.download
+m.manmanbuy.com##.footer p:nth-of-type(1)
+
+! 2023-08-21 https://h5.m.jd.com
+h5.m.jd.com###m_common_tip
