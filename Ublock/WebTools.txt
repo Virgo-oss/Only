@@ -147,4 +147,5 @@ m.manmanbuy.com##.download
 m.manmanbuy.com##.footer p:nth-of-type(1)
 
 ! 2023-08-21 https://h5.m.jd.com
-m.jd.com##div#m_common_tip
+m.jd.com###m_common_tip
+m.jd.com###content_02
