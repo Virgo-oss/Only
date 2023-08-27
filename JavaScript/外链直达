@@ -1,0 +1,47 @@
+// ==UserScript==
+// @name         外链直达
+// @namespace    your-namespace
+// @version      1.0
+// @description  知乎、掘金、CSDN、少数派、gitee等外链直接跳转
+// @match        *://*.zhihu.com/*
+// @match        *://*.sspai.com/*
+// @match        *://*.gitee.com/*
+// @match        *://juejin.cn/*
+// @match        *://*.oschina.net/*
+// @match        *://link.csdn.net/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 获取当前网址域名
+    var Current_url = window.location.host;
+    // 判断当前域名是否符合正则表达式,并执行对应的函数
+    if (/zhihu|sspai|gitee|csdn|juejin|oschina/.test(Current_url)) {
+        // 外链直达函数
+        External_direct_link();
+    }
+
+    // 外链直达
+    function External_direct_link() {
+
+        // 正则匹配外链跳转域名
+        let regexPattern = /(http.*)(target|to|goto_page)=/g;
+
+        document.querySelectorAll('a').forEach(link => {
+
+            if (regexPattern.test(link.href)) {
+                // encodeURIComponent() 函数 URI 编码，decodeURIComponent() 函数 URI 解码
+                link.href = decodeURIComponent(decodeURIComponent(link.href).replace(regexPattern, ''));
+            }
+        });
+        // 外链跳转：CSDN
+        if (regexPattern.test(window.location.href)) {
+            window.location.href = decodeURIComponent(window.location.href).replace(regexPattern, '');
+            // console.log("当前网址: " + window.location.href);
+        }
+
+    };
+
+})();
