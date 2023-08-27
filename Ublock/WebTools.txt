@@ -100,6 +100,11 @@ baidu.com##.news_ad
 /indexlocal_49da17a.js$script,domain=baidu.com
 mbd.baidu.com##.undefined
 mbd.baidu.com##._3RkCqLmiQu
+baijiahao.baidu.com###bdrainrwDragButton
+baijiahao.baidu.com##.foldMaskWrapper
+baijiahao.baidu.com##._25GoN8_aAr7R90KJg-dCZx
+baijiahao.baidu.com##.I93A3I9G2BRddV73LoQ37
+baijiahao.baidu.com##.newHeadDeflectorContainer
 
 ! 2023-08-12 https://tieba.baidu.com
 /mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
@@ -151,3 +156,7 @@ m.manmanbuy.com##.footer p:nth-of-type(1)
 ! 2023-08-21 https://h5.m.jd.com
 m.jd.com###m_common_tip
 m.jd.com###content_02
+
+! 2023-08-27 https://m.weibo.cn
+m.weibo.cn##.news-banner.module
+m.weibo.cn##.app-btn-box
