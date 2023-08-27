@@ -161,4 +161,3 @@ m.jd.com###content_02
 ! 2023-08-27 https://m.weibo.cn
 m.weibo.cn##.news-banner.module.woo-panel
 m.weibo.cn##.app-btn-box
-m.weibo.cn/feature/applink?scheme=^
