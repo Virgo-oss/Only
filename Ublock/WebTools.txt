@@ -89,7 +89,6 @@ zhihu.com##.KfeCollection-VipRecommendCard
 ||downpack.baidu.com^
 ! baidu.com##div[id^="_169185"]
 baidu.com##.s-loading-frame
-! baidu.com##.ec_ad_results
 ! baidu.com##div[new_srcid="34689"]
 baidu.com##div[class^="c-line-clamp1 c-invoke"]
 baidu.com##.c-line-ivkmask
@@ -162,3 +161,4 @@ m.jd.com###content_02
 ! 2023-08-27 https://m.weibo.cn
 m.weibo.cn##.news-banner.module.woo-panel
 m.weibo.cn##.app-btn-box
+m.weibo.cn/feature/applink?scheme=^
