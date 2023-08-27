@@ -119,20 +119,25 @@ tieba.baidu.com##.forum-btn-box
 tieba.baidu.com##.more-image-desc
 
 ! 2023-08-14 https://*.bilibili.com
-bilibili.com##.open-btn
-bilibili.com##.float-btn
-bilibili.com##.btn-download
-bilibili.com##.read-more
-bilibili.com##.open-app.weakened
-bilibili.com##.m-nav-openapp
-bilibili.com##.list-view__state
-bilibili.com##bili-open-app.open-app-btn-wrap
-bilibili.com##.limit:remove-class(limit)
-bilibili.com##.m-video-main-launchapp.visible-open-app-btn
-bilibili.com##.show-later:remove-class(show-later)
+！open-btn open-app openapp-dialog .open-app.weakened bili-open-app.open-app-btn-wrap
+m.bilibili.com##.float-btn
+m.bilibili.com##.btn-download
+m.bilibili.com##.read-more
+m.bilibili.com##.m-nav-openapp
+m.bilibili.com##.list-view__state
+m.bilibili.com##.caution-dialog
+m.bilibili.com##div[class^="open"]
+m.bilibili.com##.mplayer-ending-panel-button
+m.bilibili.com##.natural-module
+m.bilibili.com##.m-video2-awaken-btn
+m.bilibili.com##div[class$="float-openapp"]
+m.bilibili.com##.icon-spread
+m.bilibili.com##.limit:remove-class(limit)
+m.bilibili.com##.m-video-main-launchapp.visible-open-app-btn
+m.bilibili.com##.show-later:remove-class(show-later)
 ||cnhkdb.oss-cn-hongkong.aliyuncs.com/metron/js/nlm.min.js
-bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?id=12869219"]:remove-attr(onclick)
-bilibili.com##.open-app
+m.bilibili.com##bili-open-app[universallink="https://www.bilibili.com/read/mobile?id=12869219"]:remove-attr(onclick)
+
 
 ! 2023-08-20 https://*.douban.com
 douban.com##.oia-readall
