@@ -80,7 +80,7 @@ jianshu.com##.call-app-Ad-bottom
 ! 2023-08-12 https://*.zhihu.com
 zhihu.com##.OpenInAppButton
 zhihu.com##.sgui-slide-down
-zhihu.com##.MobileAppHeader-actions
+! .MobileAppHeader-actions
 zhihu.com##.KfeCollection-VipRecommendCard
 
 ! 2023-08-12 https://*.baidu.com
