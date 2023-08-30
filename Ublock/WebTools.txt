@@ -2,15 +2,15 @@
 ! Title: WebTools
 
 ! 2023-02-08 https://www.johngo689.com
-||readmore.openwrite.cn/js/readmore.js$script,important
+readmore.openwrite.cn/js/readmore.js$script,important
 
 ! 2023-04-03 http://uu.ayj*.xyz
-||/MDassets/js/system.js
+/MDassets/js/system.js
 
 ! 2023-07-22 https://hj*.top
 ###hj_login__window__
 ###details-page > div.haslist.containeradvertising > div.listContainer > [src="images/common/setqrimg2.png"]
-||*\.top/api/topic/like?entityId=*&entityType=topic$xhr
+*\.top/api/topic/like?entityId=*&entityType=topic$xhr
 
 ! 2023-08-11 https://*.bing.com
 bing.com##div > #bnp_rich_div
@@ -33,8 +33,8 @@ download.csdn.net##.ml-12
 csdn.net##.m_toolbar_left_app_btn
 csdn.net##.btn_open_app_prompt_div
 csdn.net##.passport-login-container
-||/pc/js/detail-d423030cf2.min.js$script,domain=csdn.net
-||/mobile/js/detail-00b4458b2e.min.js$script,domain=csdn.net
+/pc/js/detail-d423030cf2.min.js$script,domain=csdn.net
+/mobile/js/detail-00b4458b2e.min.js$script,domain=csdn.net
 
 ! 2023-08-12 https://m.qidian.com
 m.qidian.com###teleported
@@ -84,7 +84,6 @@ zhihu.com##.sgui-slide-down
 zhihu.com##.KfeCollection-VipRecommendCard
 
 ! 2023-08-12 https://*.baidu.com
-||hm.baidu.com^
 ||downapp.baidu.com^
 ||downpack.baidu.com^
 ! baidu.com##div[id^="_169185"]
@@ -98,7 +97,7 @@ baidu.com##div[data-type="ad"]
 ! baidu.com##div[data-type="rs"]
 baidu.com##div[data-speed="300"]
 baidu.com##.news_ad
-||/indexlocal_49da17a.js$script,domain=baidu.com
+/indexlocal_49da17a.js$script,domain=baidu.com
 mbd.baidu.com##.undefined
 mbd.baidu.com##._3RkCqLmiQu
 baijiahao.baidu.com###bdrainrwDragButton
@@ -108,8 +107,8 @@ baijiahao.baidu.com##.I93A3I9G2BRddV73LoQ37
 baijiahao.baidu.com##.newHeadDeflectorContainer
 
 ! 2023-08-12 https://tieba.baidu.com
-||/mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
-||/mo/q/gameresourcepb/getResourceList?thread_id=6178680981&phoneType=2&eqid=&fr=wise$xhr,domain=tieba.baidu.com
+/mo/q/getUpConfigData?fr=wise$xhr,domain=tieba.baidu.com
+/mo/q/gameresourcepb/getResourceList?thread_id=6178680981&phoneType=2&eqid=&fr=wise$xhr,domain=tieba.baidu.com
 tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##div > .nav-bar-v2 > .nav-bar-bottom
 tieba.baidu.com##.more-btn-desc
