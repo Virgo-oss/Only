@@ -9,6 +9,7 @@
 // @match        *://juejin.cn/*
 // @match        *://*.oschina.net/*
 // @match        *://link.csdn.net/*
+// @match        *://cloud.tencent.com/*
 // @grant        none
 // ==/UserScript==
 
