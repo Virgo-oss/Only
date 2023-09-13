@@ -1,11 +1,11 @@
 ## TVbox接口源管理：
-1、自制的接口源网址：https://gitee.com/onlydrive/Only/raw/master/TVbox/source.json
+1、自制的接口源网址：https://github.com/Virgo-oss/Only/raw/master/TVbox/source.json
 
 2、短链接制作网址：https://www.c1n.cn/
 
 
 ## Ublock规则管理：
-1、[WbeTools](https://gitee.com/onlydrive/Only/raw/master/Ublock/WebTools.txt)：屏蔽主流网站内影响用户体验的内容。（正在更新）
+1、[WbeTools](https://github.com/Virgo-oss/Only/raw/master/Ublock/WebTools.txt)：屏蔽主流网站内影响用户体验的内容。（正在更新）
 
 2、[EasyPrivacy（防跟踪）](https://easylist-downloads.adblockplus.org/easyprivacy.txt)：从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据。
 
